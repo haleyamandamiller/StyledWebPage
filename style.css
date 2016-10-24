@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Slabo 27px', serif;
+  font-color: grey;
+  font-size: 4em;
+}
+h3 {
+  font-family: 'Montserrat', sans-serf;
+  font-size: 1.25em;
+  padding-top: 10px;
+  padding-right: 300px;
+  padding-left: 300px;
+  padding-bottom: 50px;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: .75em;
+}
+h2 {
+  font-family: 'Slabo 27px', serif;
+  font-color: grey;
+  font-size: 2em;
+}
+body {
+  text-align: center;
+}
+#page-wrap {
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
